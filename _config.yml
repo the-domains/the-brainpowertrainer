@@ -1,0 +1,28 @@
+name: the brainpowertrainer
+favicon: null
+layout_spectrum: 0.2307723679114133
+typography_spectrum: 0.7440012411680073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.16779029578901827
+  lightness: 0.37986079789698124
+  saturation: 0.7830380753148347
+  rhythmicContrast: 0.2305736350826919
+purpose: []
